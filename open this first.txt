@@ -1,0 +1,3 @@
+the python file (main file) won't work if you don't do this:
+open Windows PowerShell, type in "pip install customtkinter" and press [ENTER].
+after that you can read (readme.md) for USEFUL information to start of the cheating.
